@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CodingChallenges.LeetCode/bin/Debug/net6.0
+/CodingChallenges.LeetCode/obj
+/CodeChallenges.Personal/bin/Debug/net6.0
+/CodeChallenges.Personal/obj
+/CodingChallenges/bin/Debug/net6.0
+/CodingChallenges/obj
